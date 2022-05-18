@@ -14,9 +14,9 @@ class BaseNumberGenerator:
     """Declare a method -- `get_number`."""
 
     def __init__(self):
-        self.limits = (1, 10)
+        self.limits = (1,     10)
 
-    def get_number(self, min_max):
+    def get_number(self,    min_max):
         raise NotImplemented
 
     def smethod():
@@ -43,6 +43,7 @@ class RandomNumberGenerator:
 
 
 class ImaginaryNumber:
+    
     """Class to represent an imaginary number. """
     def __init__(self):
         self.real = 0
