@@ -11,9 +11,7 @@
 <p align="center">
   DeepSource helps you ship good quality code.
 </p>
-
 </p>
-
 ---
 
 # Demo repository - Python
